@@ -1,0 +1,12 @@
+input {
+    width: 100%;
+}
+
+
+.hr-rows {
+    margin: 10px 5px;
+}
+
+.hr-button {
+    min-width: 80px;
+}
